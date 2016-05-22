@@ -1,0 +1,4 @@
+framework module "Gexp" {
+  header "Gexp.h"
+  export *
+}
